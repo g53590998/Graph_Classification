@@ -1,0 +1,295 @@
+60_0001.jpg	label None
+60_0002.jpg	label plane
+60_0003.jpg	label None
+60_0004.jpg	label plane
+60_0005.jpg	label None
+60_0006.jpg	label None
+60_0007.jpg	label None
+60_0008.jpg	label None
+60_0009.jpg	label None
+60_0010.jpg	label None
+60_0011.jpg	label None
+60_0012.jpg	label plane
+60_0013.jpg	label None
+60_0014.jpg	label None
+60_0015.jpg	label plane
+60_0016.jpg	label plane
+60_0017.jpg	label None
+60_0018.jpg	label plane
+60_0019.jpg	label None
+60_0020.jpg	label plane
+60_0021.jpg	label None
+60_0022.jpg	label None
+60_0023.jpg	label None
+60_0024.jpg	label None
+60_0025.jpg	label None
+60_0026.jpg	label None
+60_0027.jpg	label None
+60_0028.jpg	label None
+60_0029.jpg	label plane
+60_0030.jpg	label None
+60_0031.jpg	label None
+60_0032.jpg	label None
+60_0033.jpg	label None
+60_0034.jpg	label None
+60_0035.jpg	label None
+60_0036.jpg	label None
+60_0037.jpg	label None
+60_0038.jpg	label None
+60_0039.jpg	label None
+60_0040.jpg	label None
+60_0041.jpg	label None
+60_0042.jpg	label plane
+60_0043.jpg	label None
+60_0044.jpg	label plane
+60_0045.jpg	label None
+60_0046.jpg	label None
+60_0047.jpg	label plane
+60_0048.jpg	label plane
+60_0049.jpg	label plane
+60_0050.jpg	label None
+60_0051.jpg	label None
+60_0052.jpg	label None
+60_0053.jpg	label None
+60_0054.jpg	label None
+60_0055.jpg	label None
+60_0056.jpg	label None
+60_0057.jpg	label None
+60_0058.jpg	label None
+60_0059.jpg	label None
+60_0060.jpg	label None
+60_0061.jpg	label None
+60_0062.jpg	label None
+60_0063.jpg	label plane
+60_0064.jpg	label None
+60_0065.jpg	label None
+60_0066.jpg	label None
+60_0067.jpg	label None
+60_0068.jpg	label None
+60_0069.jpg	label plane
+60_0070.jpg	label None
+60_0071.jpg	label None
+60_0072.jpg	label plane
+60_0073.jpg	label None
+60_0074.jpg	label None
+60_0075.jpg	label None
+60_0076.jpg	label None
+60_0077.jpg	label None
+60_0078.jpg	label None
+60_0079.jpg	label None
+60_0080.jpg	label plane
+60_0081.jpg	label plane
+60_0082.jpg	label None
+60_0083.jpg	label None
+60_0084.jpg	label None
+60_0085.jpg	label plane
+60_0086.jpg	label None
+60_0087.jpg	label None
+69_0001.jpg	label plane	right
+69_0002.jpg	label plane	right
+69_0003.jpg	label None
+69_0004.jpg	label plane	right
+69_0005.jpg	label None
+69_0006.jpg	label plane	right
+69_0007.jpg	label None
+69_0008.jpg	label plane	right
+69_0009.jpg	label plane	right
+69_0010.jpg	label None
+69_0011.jpg	label plane	right
+69_0012.jpg	label plane	right
+69_0013.jpg	label plane	right
+69_0014.jpg	label None
+69_0015.jpg	label plane	right
+69_0016.jpg	label None
+69_0017.jpg	label plane	right
+69_0018.jpg	label plane	right
+69_0019.jpg	label None
+69_0020.jpg	label None
+69_0021.jpg	label None
+69_0022.jpg	label plane	right
+69_0023.jpg	label None
+69_0024.jpg	label plane	right
+69_0025.jpg	label None
+69_0026.jpg	label None
+69_0027.jpg	label None
+69_0028.jpg	label plane	right
+69_0029.jpg	label plane	right
+69_0030.jpg	label plane	right
+69_0031.jpg	label None
+69_0032.jpg	label plane	right
+69_0033.jpg	label None
+69_0034.jpg	label plane	right
+69_0035.jpg	label None
+69_0036.jpg	label None
+69_0037.jpg	label None
+69_0038.jpg	label None
+69_0039.jpg	label None
+69_0040.jpg	label None
+69_0041.jpg	label plane	right
+69_0042.jpg	label None
+69_0043.jpg	label plane	right
+69_0044.jpg	label plane	right
+69_0045.jpg	label None
+69_0046.jpg	label plane	right
+69_0047.jpg	label plane	right
+69_0048.jpg	label plane	right
+69_0049.jpg	label plane	right
+69_0050.jpg	label None
+69_0051.jpg	label plane	right
+69_0052.jpg	label plane	right
+69_0053.jpg	label None
+69_0054.jpg	label plane	right
+69_0055.jpg	label plane	right
+69_0056.jpg	label None
+69_0057.jpg	label plane	right
+69_0058.jpg	label None
+69_0059.jpg	label plane	right
+69_0060.jpg	label plane	right
+69_0061.jpg	label plane	right
+69_0062.jpg	label None
+69_0063.jpg	label plane	right
+69_0064.jpg	label None
+69_0065.jpg	label None
+69_0066.jpg	label None
+69_0067.jpg	label None
+69_0068.jpg	label None
+69_0069.jpg	label None
+69_0070.jpg	label None
+69_0071.jpg	label plane	right
+69_0072.jpg	label plane	right
+69_0073.jpg	label None
+69_0074.jpg	label None
+69_0075.jpg	label plane	right
+69_0076.jpg	label plane	right
+69_0077.jpg	label None
+69_0078.jpg	label plane	right
+69_0079.jpg	label None
+69_0080.jpg	label plane	right
+69_0081.jpg	label plane	right
+69_0082.jpg	label None
+69_0083.jpg	label plane	right
+69_0084.jpg	label plane	right
+69_0085.jpg	label plane	right
+69_0086.jpg	label None
+69_0087.jpg	label plane	right
+69_0088.jpg	label plane	right
+69_0089.jpg	label None
+69_0090.jpg	label None
+69_0091.jpg	label plane	right
+69_0092.jpg	label None
+69_0093.jpg	label None
+69_0094.jpg	label None
+69_0095.jpg	label plane	right
+69_0096.jpg	label None
+69_0097.jpg	label plane	right
+69_0098.jpg	label None
+69_0099.jpg	label plane	right
+118_0001.jpg	label None
+118_0002.jpg	label None
+118_0003.jpg	label None
+118_0004.jpg	label None
+118_0005.jpg	label None
+118_0006.jpg	label None
+118_0007.jpg	label None
+118_0008.jpg	label None
+118_0009.jpg	label None
+118_0010.jpg	label plane
+118_0011.jpg	label None
+118_0012.jpg	label None
+118_0013.jpg	label None
+118_0014.jpg	label None
+118_0015.jpg	label None
+118_0016.jpg	label None
+118_0017.jpg	label None
+118_0018.jpg	label None
+118_0019.jpg	label None
+118_0020.jpg	label None
+118_0021.jpg	label None
+118_0022.jpg	label None
+118_0023.jpg	label None
+118_0024.jpg	label None
+118_0025.jpg	label None
+118_0026.jpg	label None
+118_0027.jpg	label None
+118_0028.jpg	label None
+118_0029.jpg	label None
+118_0030.jpg	label plane
+118_0031.jpg	label None
+118_0032.jpg	label None
+118_0033.jpg	label None
+118_0034.jpg	label None
+118_0035.jpg	label None
+118_0036.jpg	label plane
+118_0037.jpg	label None
+118_0038.jpg	label None
+118_0039.jpg	label None
+118_0040.jpg	label None
+118_0041.jpg	label None
+118_0042.jpg	label None
+118_0043.jpg	label None
+118_0044.jpg	label None
+118_0045.jpg	label None
+118_0046.jpg	label None
+118_0047.jpg	label None
+118_0048.jpg	label None
+118_0049.jpg	label None
+118_0050.jpg	label None
+118_0051.jpg	label None
+118_0052.jpg	label None
+118_0053.jpg	label None
+118_0054.jpg	label None
+118_0055.jpg	label None
+118_0056.jpg	label None
+118_0057.jpg	label None
+118_0058.jpg	label plane
+118_0059.jpg	label None
+118_0060.jpg	label None
+118_0061.jpg	label None
+118_0062.jpg	label None
+118_0063.jpg	label None
+118_0064.jpg	label plane
+118_0065.jpg	label None
+118_0066.jpg	label None
+118_0067.jpg	label None
+118_0068.jpg	label plane
+118_0069.jpg	label plane
+118_0070.jpg	label None
+118_0071.jpg	label None
+118_0072.jpg	label None
+118_0073.jpg	label None
+118_0074.jpg	label None
+118_0075.jpg	label None
+118_0076.jpg	label None
+118_0077.jpg	label None
+118_0078.jpg	label None
+118_0079.jpg	label None
+118_0080.jpg	label None
+118_0081.jpg	label None
+118_0082.jpg	label plane
+118_0083.jpg	label None
+118_0084.jpg	label None
+118_0085.jpg	label None
+118_0086.jpg	label None
+118_0087.jpg	label plane
+118_0088.jpg	label None
+118_0089.jpg	label None
+118_0090.jpg	label plane
+118_0091.jpg	label None
+118_0092.jpg	label None
+118_0093.jpg	label None
+118_0094.jpg	label None
+118_0095.jpg	label None
+118_0096.jpg	label None
+118_0097.jpg	label None
+118_0098.jpg	label None
+118_0099.jpg	label None
+118_0100.jpg	label plane
+118_0101.jpg	label None
+118_0102.jpg	label None
+118_0103.jpg	label None
+118_0104.jpg	label None
+118_0105.jpg	label None
+118_0106.jpg	label None
+118_0107.jpg	label None
+118_0108.jpg	label None
+totally 81 graph detected, 51 right, correct percentage 0.62962962963

@@ -1,0 +1,93 @@
+60_003.jpg	label duck	right
+60_008.jpg	label duck	right
+60_009.jpg	label duck	right
+60_0010.jpg	label duck	right
+60_0011.jpg	label duck	right
+60_0014.jpg	label duck	right
+60_0021.jpg	label duck	right
+60_0023.jpg	label duck	right
+60_0024.jpg	label duck	right
+60_0026.jpg	label duck	right
+60_0027.jpg	label duck	right
+60_0028.jpg	label duck	right
+60_0030.jpg	label duck	right
+60_0031.jpg	label duck	right
+60_0032.jpg	label duck	right
+60_0033.jpg	label duck	right
+60_0037.jpg	label duck	right
+60_0039.jpg	label duck	right
+60_0040.jpg	label duck	right
+60_0041.jpg	label duck	right
+60_0046.jpg	label duck	right
+60_0052.jpg	label duck	right
+60_0053.jpg	label duck	right
+60_0054.jpg	label duck	right
+60_0056.jpg	label duck	right
+60_0058.jpg	label duck	right
+60_0059.jpg	label duck	right
+60_0068.jpg	label duck	right
+60_0073.jpg	label duck	right
+60_0074.jpg	label duck	right
+60_0077.jpg	label duck	right
+60_0078.jpg	label duck	right
+60_0079.jpg	label duck	right
+69_003.jpg	label duck	
+69_005.jpg	label duck	
+69_0014.jpg	label duck	
+69_0016.jpg	label duck	
+69_0019.jpg	label duck	
+69_0023.jpg	label duck	
+69_0025.jpg	label duck	
+69_0026.jpg	label duck	
+69_0031.jpg	label duck	
+69_0033.jpg	label duck	
+69_0036.jpg	label duck	
+69_0037.jpg	label duck	
+69_0039.jpg	label duck	
+69_0040.jpg	label duck	
+69_0042.jpg	label duck	
+69_0050.jpg	label duck	
+69_0053.jpg	label duck	
+69_0056.jpg	label duck	
+69_0062.jpg	label duck	
+69_0064.jpg	label duck	
+69_0065.jpg	label duck	
+69_0066.jpg	label duck	
+69_0068.jpg	label duck	
+69_0069.jpg	label duck	
+69_0070.jpg	label duck	
+69_0073.jpg	label duck	
+69_0082.jpg	label duck	
+69_0089.jpg	label duck	
+69_0090.jpg	label duck	
+69_0092.jpg	label duck	
+69_0093.jpg	label duck	
+69_0094.jpg	label duck	
+69_0098.jpg	label duck	
+118_001.jpg	label duck	
+118_005.jpg	label duck	
+118_006.jpg	label duck	
+118_007.jpg	label duck	
+118_009.jpg	label duck	
+118_0011.jpg	label duck	
+118_0013.jpg	label duck	
+118_0016.jpg	label duck	
+118_0019.jpg	label duck	
+118_0020.jpg	label duck	
+118_0022.jpg	label duck	
+118_0032.jpg	label duck	
+118_0037.jpg	label duck	
+118_0040.jpg	label duck	
+118_0042.jpg	label duck	
+118_0046.jpg	label duck	
+118_0052.jpg	label duck	
+118_0053.jpg	label duck	
+118_0072.jpg	label duck	
+118_0074.jpg	label duck	
+118_0079.jpg	label duck	
+118_0083.jpg	label duck	
+118_0084.jpg	label duck	
+118_0094.jpg	label duck	
+118_0096.jpg	label duck	
+118_0098.jpg	label duck	
+118_00107.jpg	label duck	
